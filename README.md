@@ -1,3 +1,5 @@
+This is a fork of OpenViEWS2 from the Upppsala Conflict Data Program, with install_views.sh modified such that the views environment can be used in Google Colab. In order for this to work, you should have a copy of this repository in the root of your Google Drive. Then, run the cells in `install_views_colab.ipynb`.
+
 # ViEWS2
 
 Getting started
